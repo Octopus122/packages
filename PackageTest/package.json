@@ -1,0 +1,14 @@
+{
+  "name": "com.logos.testpackage",
+  "version": "1.0.0",
+  "displayName": "My Custom Test Package",
+  "description": "A custom package with scripts for runtime.",
+  "unity": "2022.3",
+  "dependencies": {
+  },
+  "keywords": ["scripts"],
+  "author": {
+    "name": "Polina Sergeevna",
+    "email": "polina-tokareva-52022@mail.com"
+  }
+}
