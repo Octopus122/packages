@@ -4,7 +4,9 @@
   "displayName": "Test Package 1",
   "description": "A custom package with scripts for runtime.",
   "unity": "2022.3",
-  "dependencies": {},
+  "dependencies": {
+    "com.logos.testpackage2":"1.0.0"
+  },
   "keywords": ["scripts"],
   "author": {
     "name": "Polina Sergeevna",
