@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "com.logos.testpackage2":"https://github.com/Octopus122/packages.git?#PackageTest2@1.0.0"
+    "com.logos.testpackage2":"https://github.com/Octopus122/packages.git#PackageTest2@1.0.0"
   }
 }
