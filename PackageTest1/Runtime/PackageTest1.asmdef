@@ -1,0 +1,16 @@
+{
+    "name": "PackageTest1",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cdf70c1a487017c4f9698bc00c5fb8a2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

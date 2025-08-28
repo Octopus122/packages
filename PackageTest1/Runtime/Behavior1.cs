@@ -4,19 +4,20 @@ using UnityEngine;
 
 using PackageTest2;
 
-namespace PackageTest
+namespace PackageTest1
 {
     public class Behavior1 : MonoBehaviour
     {
         public float xSpeed = 0.1f;
         public float ySpeed = 0.1f;
         public float zSpeed = 0.1f;
-
+        public float xTeleport = 3f;
+        public float periodTeleport = 3f;
 
         void Start()
         {
-            Behavior2 beh = new Behavior2();
-            beh.StartTeleport();
+            var beh2 = new Behavior2();
+            StartCoroutine(beh2.Teleport(xTeleport, periodTeleport, gameObject));
         }
 
         // Update is called once per frame
