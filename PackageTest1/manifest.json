@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "com.logos.testpackage2":"https://github.com/Octopus122/packages.git?path=/PackageTest2"
+  }
+}
