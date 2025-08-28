@@ -5,7 +5,7 @@
   "description": "A custom package with scripts for runtime.",
   "unity": "2022.3",
   "dependencies": {
-    "com.logos.testpackage2":"https://github.com/Octopus122/packages.git?path=/PackageTest2"
+    "com.logos.testpackage2":"https://github.com/Octopus122/packages.git?path=/PackageTest2@1.0.0"
   },
   "keywords": ["scripts"],
   "author": {
